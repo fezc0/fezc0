@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @fezc0
-- 🎓 I'm gratued from EPITECH Mastery and also have a BS in Network & Telecommunication
+- 🎓 I'm graduated from EPITECH Mastery and also have a BS in Network & Telecommunication
 - 👀 I’m interested in e-sport, mobile development, crypto & metaverse
 - 🌱 I’m currently learning NodeJS
-- 💞️ Feel free to send me message
+- 💞️ Feel free to send me a message
 - 📫 fezcoinmetaverse@gmail.com
 
 <!---
